@@ -1,4 +1,4 @@
-# Tema-9---VERIFICATORI
+VERIFICATORI
 Exerciții obligatorii - grad de dificultate: Usor spre Mediu
 Implementează o clasă Login care să moștenească unittest.TestCase
 Gasește elementele în partea de sus folosind ce selectors dorești:
